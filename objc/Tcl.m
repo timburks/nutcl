@@ -18,7 +18,6 @@ limitations under the License.
 
 #import <Foundation/Foundation.h>
 #import <readline/readline.h>
-//#import <editline/readline.h>
 #import <tcl.h>
 
 static void freeObjC(Tcl_Obj *objPtr)
